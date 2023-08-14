@@ -24,7 +24,7 @@ Responsive Design: The Teacher App is designed to be responsive, ensuring compat
 
 <h3>Deployed Links:</h3>
   
-  - FrontEnd: https://6490828db952090b510531d5--cheery-pie-1dc9b0.netlify.app/
+  - FrontEnd: https://cheery-pie-1dc9b0.netlify.app/
   - Backend: https://ruby-fragile-angelfish.cyclic.app/
   
  <h3>Application Flow</h3>
