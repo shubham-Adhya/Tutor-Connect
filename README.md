@@ -58,16 +58,16 @@ Open the application in your web browser at localhost:4500. <br>
  
 <h3>Landing Page</h3>
   
-![index](https://github.com/aamirfarookh/adjoining-steel-5186/blob/main/Client/screenshots/1.png)
+![one](https://github.com/shubham-Adhya/Tutor-Connect/assets/119453418/39b8daa6-b49f-4ceb-b67c-c2ceb065a6f9)
   
 <h3>Login Page</h3>
   
-![index.html](https://github.com/aamirfarookh/adjoining-steel-5186/blob/main/Client/screenshots/Login.png)  
-  
+![Login_](https://github.com/shubham-Adhya/Tutor-Connect/assets/119453418/1f3856b7-20e4-426b-b23a-6796d32596f1)
+
 <h3>Register Page</h3>
   
-![index.html](https://github.com/aamirfarookh/adjoining-steel-5186/blob/main/Client/screenshots/register.png)
-  
+![register_](https://github.com/shubham-Adhya/Tutor-Connect/assets/119453418/a161fc3a-d039-490d-afaf-0246c48161a7)
+
 <!-- <h3>Forgot Password</h3>
   
 ![index.html](https://github.com/aamirfarookh/ossified-nerve-3185/blob/main/Frontend/assets/forget.png)  -->
@@ -78,12 +78,12 @@ Open the application in your web browser at localhost:4500. <br>
   
 <h3>Dashboard</h3>
   
-![index.html](https://github.com/aamirfarookh/adjoining-steel-5186/blob/main/Client/screenshots/dash.png) 
+![dash_](https://github.com/shubham-Adhya/Tutor-Connect/assets/119453418/f8c58435-1412-4256-88b9-8b54267ca908)
 
 <h3>Bookings</h3>
-  
-![index.html](https://github.com/aamirfarookh/adjoining-steel-5186/blob/main/Client/screenshots/Bookings.png)  
-  
+
+![Bookings_](https://github.com/shubham-Adhya/Tutor-Connect/assets/119453418/24d853d5-0faf-4d81-a2a3-1cb758ef4308)
+
 <!-- <h3>Room</h3>
   
 ![index.html](https://github.com/aamirfarookh/ossified-nerve-3185/blob/main/Frontend/assets/room.png)   -->
@@ -94,5 +94,5 @@ Open the application in your web browser at localhost:4500. <br>
   
 
   
-<h3>License:</h3>
-This project is licensed under the MIT License. See the LICENSE file for details.
+<!-- <h3>License:</h3>
+This project is licensed under the MIT License. See the LICENSE file for details. -->
